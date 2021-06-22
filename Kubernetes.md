@@ -1,3 +1,4 @@
+![kube](https://i.ibb.co/1MfY7Pp/kubernetes-horizontal-color.png)
 # Learning _Kubernetes_
 
 Some of the useful resources have been listed below:
