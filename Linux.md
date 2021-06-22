@@ -2,12 +2,13 @@
 
 Learn about the various Linux commands. Some of the useful resources have been listed below:
 
-- [https://ubuntu.com/tutorials/command-line-for-beginners#1-overview][PlDb]
-- [https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners][PlGh]
-- Handbook-[https://www.freecodecamp.org/news/the-linux-commands-handbook/][PlGd]
-- ✨Magic ✨✨
+- The linux commands [handbook][PlGd]. It covers 60 core Bash commands you will need as a developer. Each command includes example code and tips for when to use it.
+- [Command line for beginners overview][PlDb]
+- [Basic linux commands for beginners][PlGh]
+
 
 ## Practice Area
+You can enjoy practicing your learnings here in a fun way!
 
 - [https://overthewire.org/wargames/bandit/][PlGt]
 
@@ -23,7 +24,7 @@ ssh in your command prompt
 
 ```
 
-For production environments...
+
 
 ```sh
 
