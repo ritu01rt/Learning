@@ -9,7 +9,7 @@ Learn about the various Linux commands. Some of the useful resources have been l
 
 ## Practice Area
 
-- [https://overthewire.org/wargames/bandit/][PlGh]
+- [https://overthewire.org/wargames/bandit/][PlGt]
 
 ## Bandit Solutions:
 
@@ -32,5 +32,6 @@ For production environments...
 ```
 
    [PlDb]: <https://ubuntu.com/tutorials/command-line-for-beginners#1-overview>
-   [PlGh]: <https://overthewire.org/wargames/bandit/>
+   [PlGh]: <https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners>
    [PlGd]: <https://www.freecodecamp.org/news/the-linux-commands-handbook/>
+   [PlGt]: <https://overthewire.org/wargames/bandit/>
