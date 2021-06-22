@@ -1,5 +1,5 @@
 ![ws+do](https://i.ibb.co/LYRpms6/wsl-dockerr.jpg)
-# Setting _WSL+Docker_
+# Setting up _WSL+Docker_
 
 Setting up of the WSL+Docker workspace. Some of the useful resources have been listed below:
 
