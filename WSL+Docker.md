@@ -7,6 +7,7 @@ Setting up of the WSL+Docker workspace. Some of the useful resources have been l
 - [Manual Installation Stepsfor WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps)
 - [Docker Desktop for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 - [Helm](https://helm.sh/docs/intro/install/)
+- [How to install and use Prometheus with Grafana](https://medium.com/devops-dudes/install-prometheus-on-ubuntu-18-04-a51602c6256b)
 
 ## Related threads to problems faced
 
