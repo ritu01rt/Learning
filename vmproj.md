@@ -24,3 +24,8 @@ sudo chmod +x /etc/init.d/mongod
 #start the service
 sudo service mongod start
 Now, you can run mongo to reach the database.
+
+
+
+#always start the service
+sudo service mongod start
